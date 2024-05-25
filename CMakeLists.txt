@@ -5,4 +5,6 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_executable(sepplesplayground main.cpp
         "Source Files/calculator.cpp"
-        "Header Files/calculator.h")
+        "Header Files/calculator.h"
+        "Source Files/CalculatorEx.cpp"
+        "Header Files/CalculatorEx.h")
